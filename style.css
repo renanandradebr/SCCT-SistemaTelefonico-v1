@@ -1,0 +1,162 @@
+
+body{
+    background-color: rgb(7, 87, 130);
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 51%, rgba(8,30,135,1) 59%, rgba(0,212,255,1) 100%, rgba(0,212,255,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+
+img#logo{
+    margin-left: 130px;
+    transform: scale(0.7);
+}
+.Alerta1{
+    font: normal 12pt Arial;
+    text-align: right;
+    margin-left: 440px;
+    width: 210px;
+    transform: scale(0.8);
+
+}
+
+
+div#cabecalho1{
+    background-color: aliceblue;
+    width: 640px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+
+section{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    padding: 70px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+button{
+    background-color: rgb(21, 132, 192);
+    margin-left: 25px;
+    margin-top: 25px;
+    width: 120px;
+    height: 120px;
+    border: solid 1px;
+    border-radius: 5px;
+}
+
+#botao1:hover{
+    background-color: rgb(92, 186, 248);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: all 0.5s;
+   
+    
+}
+#botao2:hover{
+    background-color: rgb(92, 186, 248);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: all 0.5s;
+   
+    
+}
+#botao3:hover{
+    background-color: rgb(92, 186, 248);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: all 0.5s;
+   
+    
+}
+#botao4:hover{
+    background-color: rgb(92, 186, 248);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: all 0.5s;
+   
+    
+}
+#botao5:hover{
+    background-color: rgb(92, 186, 248);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: all 0.5s;
+   
+    
+}
+#botao6:hover{
+    background-color: rgb(92, 186, 248);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: all 0.5s;
+   
+    
+}
+#botao7:hover{
+    background-color: rgb(92, 186, 248);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+#botao8:hover{
+    background-color: rgb(92, 186, 248);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+#botao9:hover{
+    background-color: rgb(92, 186, 248);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: all 0.5s;
+   
+    
+}
+.opcoes1{
+    width: 50px;
+    height: 50px;
+    margin-left: 70px;
+}
+
+.opcoes1:hover{
+    background-color: rgb(92, 186, 248);
+    color: white;
+    content:" \f0c9";
+    border-color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: all 0.5s;
+
+}
+   
+.logo-opcoes{
+    transform: scale(0.5);
+
+    margin-right: 20px;
+}
+
+
+
+footer{
+    background-color: white;
+    padding: 7px;
+    width: 625px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+    font: normal 10pt Arial;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
