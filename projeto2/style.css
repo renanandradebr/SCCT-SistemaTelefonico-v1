@@ -1,0 +1,121 @@
+body{
+    font: normal 12pt Arial;
+    background-color: rgb(255, 255, 255);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.logo-c{
+    max-width:180px;
+    max-height:170px;
+    width: auto;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.child{
+    width: 50%;
+    height: 600px;
+    background-color: rgb(60, 129, 232);
+    border-top-right-radius: 12px;
+}
+.child1{
+    width: 25%;
+    height: 600px;
+    background-color: rgb(96, 169, 242);
+    border-top-left-radius: 12px;
+    
+}
+.childB{
+    font: normal 8pt Arial;
+    text-align: center;
+    line-height: 4;
+    margin: auto;
+    width: 75%;
+    height: 150px;
+    background-color: rgb(183, 219, 255);
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+footer{
+    margin:auto;
+    text-align: center;
+    background-color: #0076a9;
+    margin-top: 15px;
+    padding: 10px;
+}
+.cabecalho{
+    background-color: rgb(60, 129, 232);
+    padding: 15%;
+    border-top-right-radius: 12px;
+}
+.bparte1{
+    background-color: #33b8ff;
+    padding: 10%;
+    
+}
+.bparte2{
+    background-color: #33b8ff;
+    padding: 10%;
+}
+.usuarioDate{
+    background-color: #0076a9;
+    width: 90%;
+    margin-left: 10px;
+    margin-top: 12px;
+    padding: 25%;
+    border-radius: 5px;
+}
+.dados{
+    color: antiquewhite;
+    text-align: center;
+}
+.optionButton{
+    border-radius: 5px;
+    line-height: 2px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 90%;
+    height: 2px;
+    font-size: 12px;
+    padding: 12px;
+    text-align: center;
+}
+.optionButton:hover{
+    background-color: rgb(0, 0, 81);
+}
+
+button{
+    background-color: #0076a9; 
+    border: none;
+    color: white;
+    padding: 40px 22px;
+    border-radius: 12px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+
+}
+
+#botao1:hover,#botao2:hover,#botao3:hover,#botao4:hover,#botao5:hover,#botao6:hover{
+    background-color: rgb(156, 219, 255);
+    color: black;
+}
+    
